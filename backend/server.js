@@ -10,6 +10,7 @@ const port = process.env.PORT;
 app.use(cors());
 app.use(express.json());
 
+// DB 연결
 const uri = process.env.ATLAS_URI;
 mongoose.connect(uri, { useNewUrlParser: true, useCreateIndex: true,useUnifiedTopology: true }
 );
@@ -25,5 +26,5 @@ app.use('/exercises', exercisesRouter);
 app.use('/users', usersRouter);
 
 app.listen(port, () => {
-    console.log(`Server is running on port: ${port}`);
+    console.log(`Server is running on http://localhost:${port}`);
 });
