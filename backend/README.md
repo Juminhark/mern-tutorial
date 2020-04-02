@@ -37,3 +37,9 @@ app.use('/users', usersRouter);
 * 각 uri에 route는 해당 router를 실행.
 
 ## [`rest api`](https://zetawiki.com/wiki/REST_API)
+
+## server 실행
+
+```sh
+npm start
+```
