@@ -1,6 +1,10 @@
-# mern-tutorial
+# mern_tutorial
 
-https://www.youtube.com/watch?v=7CqJlxBYj-M&list=LLHOC4lfiFUG0hrEsvjkhGsg&index=2&t=945s
+MongoDB - Express - React - Node Stack
+
+# tutorial
+[`freeCodeCamp.org`](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+
 
 
 > npx create-react-app .
