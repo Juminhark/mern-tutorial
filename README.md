@@ -1,6 +1,6 @@
-# mern_tutorial
+# MERN Stack
 
-MongoDB - Express - React - Node Stack
+MongoDB - Express - React - Node
 
 # tutorial
 [`freeCodeCamp.org`](https://www.youtube.com/watch?v=7CqJlxBYj-M)
