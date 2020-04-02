@@ -1,6 +1,7 @@
 # mern-tutorial
-Learn the MERN Stack
-mongodb - express - react - nodejs
+
+https://www.youtube.com/watch?v=7CqJlxBYj-M&list=LLHOC4lfiFUG0hrEsvjkhGsg&index=2&t=945s
+
 
 > npx create-react-app .
 
